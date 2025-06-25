@@ -1,0 +1,42 @@
+INFO  10:19:47  (TestBase.java:97) - Writing debug log to: /Users/yehu/cs/C/semB/automation/test project/automation_project/C:\Selenium Workspace/Logs/basic/PageObjectCode126.log
+INFO  10:19:47  (TestBase.java:158) - *************************************************************************
+INFO  10:19:47  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  10:19:47  (TestBase.java:160) - Start time: 06/05/2025 10:19:47
+INFO  10:19:47  (TestBase.java:161) - *************************************************************************
+INFO  10:19:47  (PageObjectCode.java:42) - Opening site 'https://www.automationexercise.com/'...
+INFO  10:19:50  (HomePage.java:17) - Ensure that home page is displayed
+INFO  10:19:50  (MenusPage.java:24) - Click Signup/Login link
+INFO  10:19:51  (SignupLoginPage.java:16) - Ensure that Signup/Login page is displayed
+INFO  10:19:51  (SignupLoginPage.java:22) - Fill Name: John Doe
+INFO  10:19:51  (SignupLoginPage.java:28) - Fill Email: John0605251019131@Doe.com
+INFO  10:19:51  (SignupLoginPage.java:34) - Click Signup button
+INFO  10:19:55  (SignupPage.java:46) - Ensure that Signup page is displayed
+INFO  10:19:55  (SignupPage.java:52) - Tick title: Mr.
+INFO  10:19:55  (SignupPage.java:58) - Fill password: 123456
+INFO  10:19:55  (SignupPage.java:64) - Fill day: 11
+INFO  10:19:55  (SignupPage.java:72) - Fill month: November
+INFO  10:19:55  (SignupPage.java:80) - Fill year: 1995
+INFO  10:19:55  (SignupPage.java:88) - Tick Sign up for our newsletter!
+INFO  10:19:55  (SignupPage.java:94) - Fill first name: John
+INFO  10:19:55  (SignupPage.java:100) - Fill last name: Doe
+INFO  10:19:55  (SignupPage.java:106) - Fill company: John Concrete Ltd.
+INFO  10:19:55  (SignupPage.java:112) - Fill address: 25 Sydney Rd.
+INFO  10:19:55  (SignupPage.java:118) - Select country: Australia
+INFO  10:19:55  (SignupPage.java:126) - Fill state: Victoria
+INFO  10:19:55  (SignupPage.java:132) - Fill city: Melbourne
+INFO  10:19:55  (SignupPage.java:138) - Fill zipcode: 3672
+INFO  10:19:55  (SignupPage.java:144) - Fill mobile number: 0431337288
+INFO  10:19:55  (SignupPage.java:150) - Click Create Account button
+INFO  10:19:56  (MessagesPage.java:32) - Ensure that messages page is displayed
+INFO  10:19:56  (MessagesPage.java:38) - Verify that ACCOUNT CREATED! message is displayed
+INFO  10:19:56  (MessagesPage.java:45) - Click Continue button
+INFO  10:19:58  (HomePage.java:17) - Ensure that home page is displayed
+INFO  10:19:58  (MenusPage.java:30) - Verify Logout button is displayed
+INFO  10:19:58  (MenusPage.java:35) - Verify Delete Account Button button is displayed
+INFO  10:19:58  (TestBase.java:169) - *************************************************************************
+INFO  10:19:58  (TestBase.java:170) - The 'PageObjectCode' test has ended successfully.
+INFO  10:19:58  (TestBase.java:171) - Start time: 06/05/2025 10:19:47
+INFO  10:19:58  (TestBase.java:172) - End time:       06/05/2025 10:19:58.
+INFO  10:19:58  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  10:19:58  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 11.470 seconds.
+INFO  10:19:58  (TestBase.java:175) - *************************************************************************

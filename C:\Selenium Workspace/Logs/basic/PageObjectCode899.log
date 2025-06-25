@@ -1,0 +1,25 @@
+INFO  11:33:37  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/PageObjectCode899.log
+INFO  11:33:37  (TestBase.java:158) - *************************************************************************
+INFO  11:33:37  (TestBase.java:159) - The 'PageObjectCode' test has started.
+INFO  11:33:37  (TestBase.java:160) - Start time: 03/06/2025 11:33:37
+INFO  11:33:37  (TestBase.java:161) - *************************************************************************
+INFO  11:33:37  (PageObjectCode.java:42) - Opening site 'https://www.automationexercise.com/'...
+INFO  11:33:40  (HomePage.java:17) - Ensure that home page is displayed
+INFO  11:33:40  (MenusPage.java:24) - Click Signup/Login link
+FATAL 11:33:41  (TestBase.java:126) - element click intercepted: Element <a href="/login">...</a> is not clickable at point (711, 40). Other element would receive the click: <div class="fc-dialog-overlay"></div>
+  (Session info: chrome=137.0.7151.41)
+  (Driver info: chromedriver=137.0.7151.55 (254bc711794d7ad269495f3d419a209935b78cad-refs/branch-heads/7151@{#1757}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'yehus-MacBook-Air.local', ip: 'fe80:0:0:0:4c8:23df:768b:d158%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.4.1', java.version: '17.0.14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\sauce\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49803}, handlesAlerts: true, hasMetadata: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 137.0.7151.41, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 16b6b1dde7f64272b9d89455e17...}
+Session ID: 16b6b1dde7f64272b9d89455e17f3457
+INFO  11:33:42  (ApplicationManager1.java:124) - Application screenshot is saved in: C:\Selenium Workspace/Screenshots/basic/Failure screenshot for PageObjectCode0306251133958.png
+INFO  11:33:42  (TestBase.java:181) - *************************************************************************
+INFO  11:33:42  (TestBase.java:182) - The 'PageObjectCode' test has ended with error.
+INFO  11:33:42  (TestBase.java:183) - Start time: 03/06/2025 11:33:37
+INFO  11:33:42  (TestBase.java:184) - End time:       03/06/2025 11:33:42.
+INFO  11:33:42  (TestBase.java:185) - -------------------------------------------------------------------------
+INFO  11:33:42  (TestBase.java:186) - Total run time: 0 days, 0 hours, 0 minutes, 4.624 seconds.
+INFO  11:33:42  (TestBase.java:187) - *************************************************************************

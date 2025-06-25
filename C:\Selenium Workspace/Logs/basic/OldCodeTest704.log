@@ -1,0 +1,42 @@
+INFO  10:24:41  (TestBase.java:97) - Writing debug log to: /Users/yehu/cs/C/semB/automation/test project/automation_project/C:\Selenium Workspace/Logs/basic/OldCodeTest704.log
+INFO  10:24:41  (TestBase.java:158) - *************************************************************************
+INFO  10:24:41  (TestBase.java:159) - The 'OldCodeTest' test has started.
+INFO  10:24:41  (TestBase.java:160) - Start time: 06/05/2025 10:24:41
+INFO  10:24:41  (TestBase.java:161) - *************************************************************************
+INFO  10:24:41  (OldCodeTest.java:45) - Opening site 'https://www.automationexercise.com/'...
+INFO  10:24:45  (OldCodeTest.java:48) - Verify that home page is displayed
+INFO  10:24:45  (OldCodeTest.java:51) - Find Signup/Login link
+INFO  10:24:46  (OldCodeTest.java:56) - Signup form opened successfully
+INFO  10:24:46  (OldCodeTest.java:59) - Fill Name: John Doe
+INFO  10:24:46  (OldCodeTest.java:63) - find email field and fill: John0605251024738@Doe.com
+INFO  10:24:46  (OldCodeTest.java:67) - Click Signup button
+INFO  10:24:48  (OldCodeTest.java:70) - Verify that big signup form is displayed
+INFO  10:24:48  (OldCodeTest.java:73) - Tick title: Mr.
+INFO  10:24:48  (OldCodeTest.java:76) - Fill password: 123456
+INFO  10:24:48  (OldCodeTest.java:79) - Fill date of birth: 11/11/1995
+INFO  10:24:48  (OldCodeTest.java:80) - Fill day: 11
+INFO  10:24:48  (OldCodeTest.java:85) - Fill month: November
+INFO  10:24:48  (OldCodeTest.java:90) - Fill year: 1995
+INFO  10:24:48  (OldCodeTest.java:95) - Tick Sign up for our newsletter!
+INFO  10:24:48  (OldCodeTest.java:98) - Fill first name: John
+INFO  10:24:48  (OldCodeTest.java:101) - Fill last name: Doe
+INFO  10:24:48  (OldCodeTest.java:104) - Fill company: John Concrete Ltd.
+INFO  10:24:48  (OldCodeTest.java:107) - Fill address: 25 Sydney Rd.
+INFO  10:24:48  (OldCodeTest.java:110) - Select country: Australia
+INFO  10:24:48  (OldCodeTest.java:115) - Fill state: Victoria
+INFO  10:24:48  (OldCodeTest.java:118) - Fill city: Melbourne
+INFO  10:24:49  (OldCodeTest.java:121) - Fill zip code: 3672
+INFO  10:24:49  (OldCodeTest.java:124) - Fill mobile number: 0431337288
+INFO  10:24:49  (OldCodeTest.java:127) - Click Create Account button
+INFO  10:24:50  (OldCodeTest.java:130) - Verify account created successfully
+INFO  10:24:50  (OldCodeTest.java:134) - Finish registration by clicking continue button
+INFO  10:24:52  (OldCodeTest.java:137) - Verify main page is displayed
+INFO  10:24:52  (OldCodeTest.java:140) - Verify Logout button is displayed
+INFO  10:24:52  (OldCodeTest.java:143) - Verify Delete Account button is displayed
+INFO  10:24:52  (TestBase.java:169) - *************************************************************************
+INFO  10:24:52  (TestBase.java:170) - The 'OldCodeTest' test has ended successfully.
+INFO  10:24:52  (TestBase.java:171) - Start time: 06/05/2025 10:24:41
+INFO  10:24:52  (TestBase.java:172) - End time:       06/05/2025 10:24:52.
+INFO  10:24:52  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  10:24:52  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 10.704 seconds.
+INFO  10:24:52  (TestBase.java:175) - *************************************************************************

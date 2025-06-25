@@ -1,0 +1,21 @@
+INFO  13:08:26  (TestBase.java:97) - Writing debug log to: C:\Selenium Workspace/Logs/basic/AppiumTestExample739.log
+INFO  13:08:26  (TestBase.java:158) - *************************************************************************
+INFO  13:08:26  (TestBase.java:159) - The 'AppiumTestExample' test has started.
+INFO  13:08:26  (TestBase.java:160) - Start time: 10/06/2025 13:08:26
+INFO  13:08:26  (TestBase.java:161) - *************************************************************************
+INFO  13:08:26  (AppiumTestExample.java:18) - Click Delete
+INFO  13:08:28  (AppiumTestExample.java:21) - Click 2
+INFO  13:08:28  (AppiumTestExample.java:24) - Click +
+INFO  13:08:29  (AppiumTestExample.java:27) - Click 5
+INFO  13:08:30  (AppiumTestExample.java:30) - Click =
+INFO  13:08:30  (AppiumTestExample.java:33) - Get result...
+INFO  13:08:30  (AppiumTestExample.java:35) - Result is : 7
+INFO  13:08:30  (AppiumTestExample.java:37) - Rotate Landscape
+INFO  13:08:31  (AppiumTestExample.java:39) - Rotate Portrait
+INFO  13:08:32  (TestBase.java:169) - *************************************************************************
+INFO  13:08:32  (TestBase.java:170) - The 'AppiumTestExample' test has ended successfully.
+INFO  13:08:32  (TestBase.java:171) - Start time: 10/06/2025 13:08:26
+INFO  13:08:32  (TestBase.java:172) - End time:       10/06/2025 13:08:32.
+INFO  13:08:32  (TestBase.java:173) - -------------------------------------------------------------------------
+INFO  13:08:32  (TestBase.java:174) - Total run time: 0 days, 0 hours, 0 minutes, 6.34 seconds.
+INFO  13:08:32  (TestBase.java:175) - *************************************************************************
